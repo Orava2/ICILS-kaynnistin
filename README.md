@@ -1,7 +1,6 @@
 # ICILS-KÄYNNISTIN
 
 CILS-KOE.bat tiedosto läppäreiden työpöydälle.
-Bat-tiedosto:
 
 	- Tarkistaa onko Chrome asennettu 32- vai 64-bittisten ohjelmien kansioon.
 	
