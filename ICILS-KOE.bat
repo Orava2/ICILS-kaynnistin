@@ -90,7 +90,7 @@ powercfg /change standby-timeout-ac 0
 REM -----------------------------------------------------------------------------------------------
 REM Avaa koesivu
 REM "%chromePath%" -incognito --start-maximized --no-default-browser-check --new-window hop.norssi.fi/icils
-"%chromePath%" -incognito --start-maximized --start-fullscreen --no-default-browser-check --new-window hop.norssi.fi/icils
+"%chromePath%" -incognito --start-maximized --start-fullscreen --no-default-browser-check --new-window <url>
 
 
 REM -----------------------------------------------------------------------------------------------
